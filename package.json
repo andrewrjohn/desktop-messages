@@ -1,0 +1,13 @@
+{
+  "name": "desktop-messages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew <ajlutheran@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^6.0.2"
+  }
+}
