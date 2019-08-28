@@ -2,7 +2,7 @@
   "name": "desktop-messages",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew <ajlutheran@gmail.com>",
+  "author": "Andrew",
   "license": "MIT",
   "scripts": {
     "start": "electron ."
